@@ -16,7 +16,7 @@ This repository contains the frontend implementation for the **Web-Based Invento
 * **Colors:**
   * Primary Color: Light Gray (`#F8F9FD`)
   * Secondary Color: Dark Navy (`#111828`)
-  * Accent Color: Mint Green (`#62C7A5`)
+  * Accent Color: Soft Light Yellow / Cream (#FEF3C7 / #FFFBEB)
 * **Typography:** Inter (Heading: Bold, Subheading: Semi-Bold, Body: Regular, Labels: Medium)
 
 ## Project Structure
